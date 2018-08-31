@@ -1,0 +1,13 @@
+{
+    "name": "jdp/appengine",
+    "require": {
+        "google/cloud-spanner": "^1.7",
+        "symfony/cache": "^4.1"
+    },
+    "authors": [
+        {
+            "name": "John Pedrie",
+            "email": "john@pedrie.com"
+        }
+    ]
+}
